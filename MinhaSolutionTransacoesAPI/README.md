@@ -1,11 +1,10 @@
 <h1 align="center">
-    <img src="public/logo.png">
+    <img src="MinhaSolutionTransacoesAPI/logo.png">
 </h1>
 
 <h1>
-    <img src="public/apresentacao_M.gif">
+    <img src="MinhaSolutionTransacoesAPI/apresentacao_M.gif">
 </h1>
-
 # Indice
 
 - [Sobre](#-sobre)
