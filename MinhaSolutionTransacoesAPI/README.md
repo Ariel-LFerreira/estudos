@@ -21,7 +21,7 @@ Até o momento estou estudando e conhecendo as estruturas e tecnologias mais uti
 ## 🚀 Nosso guia de estudos:
 - [Mapa Mochileira das Galaxias](https://guia-estudos.netlify.app/)
 
-## 🚀 sLinguagens/Ferramentas/Tecnologia
+## 🚀 Linguagens/Ferramentas/Tecnologia
 
 O projeto foi desenvolvido utilizando as seguintes Ferramentas/tecnologias
 
