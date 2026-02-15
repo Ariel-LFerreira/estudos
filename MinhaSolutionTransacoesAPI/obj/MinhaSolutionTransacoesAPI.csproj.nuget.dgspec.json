@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\RiderProjects\\MinhaSolutionTransacoesAPI\\MinhaSolutionTransacoesAPI\\MinhaSolutionTransacoesAPI.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Raissa estudos\\Repositorio-git-hub-Minha-transacao_estudo_v1\\estudos\\MinhaSolutionTransacoesAPI\\MinhaSolutionTransacoesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\RiderProjects\\MinhaSolutionTransacoesAPI\\MinhaSolutionTransacoesAPI\\MinhaSolutionTransacoesAPI.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Raissa estudos\\Repositorio-git-hub-Minha-transacao_estudo_v1\\estudos\\MinhaSolutionTransacoesAPI\\MinhaSolutionTransacoesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\RiderProjects\\MinhaSolutionTransacoesAPI\\MinhaSolutionTransacoesAPI\\MinhaSolutionTransacoesAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Raissa estudos\\Repositorio-git-hub-Minha-transacao_estudo_v1\\estudos\\MinhaSolutionTransacoesAPI\\MinhaSolutionTransacoesAPI.csproj",
         "projectName": "MinhaSolutionTransacoesAPI",
-        "projectPath": "C:\\Users\\Usuario\\RiderProjects\\MinhaSolutionTransacoesAPI\\MinhaSolutionTransacoesAPI\\MinhaSolutionTransacoesAPI.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Raissa estudos\\Repositorio-git-hub-Minha-transacao_estudo_v1\\estudos\\MinhaSolutionTransacoesAPI\\MinhaSolutionTransacoesAPI.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\RiderProjects\\MinhaSolutionTransacoesAPI\\MinhaSolutionTransacoesAPI\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Raissa estudos\\Repositorio-git-hub-Minha-transacao_estudo_v1\\estudos\\MinhaSolutionTransacoesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
