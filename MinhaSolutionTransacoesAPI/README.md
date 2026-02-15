@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="MinhaSolutionTransacoesAPI/logo.png">
+    <img src="./MinhaSolutionTransacoesAPI/logo.png?raw=true">
 </h1>
 
 <h1>
-    <img src="MinhaSolutionTransacoesAPI/apresentacao_M.gif">
+    <img src="./MinhaSolutionTransacoesAPI/apresentacao_M.gif?raw=true">
 </h1>
 # Indice
 
