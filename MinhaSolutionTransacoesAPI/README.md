@@ -1,15 +1,9 @@
 <h1 align="center">
-
-[//]: # (    <img src="./MinhaSolutionTransacoesAPI/logo.png?raw=true">)
-<img src="https://github.com/Ariel-LFerreira/estudos/blob/2a92908bb2c09e092d4bb2b179f41119ab206aff/MinhaSolutionTransacoesAPI/Logo.png">
+    <img src="./Logo.png?raw=true">
 </h1>
 
 <h1>
-
-[//]: # (    <img src="./MinhaSolutionTransacoesAPI/apresentacao_M.gif?raw=true">)
-
-    
-<img src="https://github.com/Ariel-LFerreira/estudos/blob/2a92908bb2c09e092d4bb2b179f41119ab206aff/MinhaSolutionTransacoesAPI/apresentacao_M.gif">
+    <img src="./apresentacao_M.gif?raw=true">
 </h1>
 # Indice
 
