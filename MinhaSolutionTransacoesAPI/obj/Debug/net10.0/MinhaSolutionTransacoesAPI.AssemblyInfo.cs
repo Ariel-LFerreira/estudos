@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinhaSolutionTransacoesAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea5833d2704493ab60b6fa53f5da6439877ef378")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4958295c7d469b120201b73d556e6ad83fd17f40")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinhaSolutionTransacoesAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinhaSolutionTransacoesAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
